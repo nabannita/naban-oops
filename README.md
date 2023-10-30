@@ -1,4 +1,4 @@
-# naban-oops
+
 import java.util.Scanner;
 
 // Abstract class for the customer
